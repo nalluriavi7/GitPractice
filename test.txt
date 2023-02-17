@@ -2,3 +2,5 @@ Hello, my name is avinash nalluri
 this is the git learning
 
 i changed it from locAL
+
+chages to check .git
